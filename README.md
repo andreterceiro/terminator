@@ -1,0 +1,1 @@
+Aqui aciono LEDs que coloquei nos olhos de uma cabeça de um terminator via um LDR. Veja o vídeo.txt
